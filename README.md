@@ -1,5 +1,10 @@
 # pokedex
 
+Está é uma Pokedex feita em Vue.js, para o curso Formação Node.js do Guia do programador:
+
+#### ✅ [Cursos em promoção](https://guiadoprogramador.com/cursos-em-promocao/)✅
+#### 🔝[Cursos gratuitos](https://guiadoprogramador.com/cursos-gratis/)🔝
+
 ## Project setup
 ```
 npm install
